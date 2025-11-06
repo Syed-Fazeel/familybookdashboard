@@ -13,7 +13,6 @@ export default function BusinessCardExample() {
         reviewCount={124}
         price="$45/class"
         isFeatured={true}
-        onBook={() => console.log('Book clicked')}
       />
     </div>
   );

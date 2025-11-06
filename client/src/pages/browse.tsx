@@ -137,7 +137,6 @@ export default function Browse() {
             <BusinessCard
               key={business.id}
               {...business}
-              onBook={() => console.log('Book:', business.name)}
             />
           ))}
         </div>

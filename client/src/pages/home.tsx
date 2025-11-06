@@ -92,7 +92,6 @@ export default function Home() {
               <BusinessCard
                 key={business.id}
                 {...business}
-                onBook={() => console.log('Book:', business.name)}
               />
             ))}
           </div>
