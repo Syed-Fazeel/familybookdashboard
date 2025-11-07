@@ -102,7 +102,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 py-12">
           <div className="grid gap-8 md:grid-cols-4">
             <div>
-              <h3 className="font-bold text-lg mb-3">FamilyConnect</h3>
+              <h3 className="font-bold text-lg mb-3">Family Book</h3>
               <p className="text-sm text-muted-foreground">
                 Connecting families with amazing local activities and services.
               </p>
@@ -129,7 +129,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2024 FamilyConnect. All rights reserved.</p>
+            <p>&copy; 2024 Family Book. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -34,7 +34,7 @@ const mockNotifications = [
   {
     id: '2',
     title: 'New Business Added',
-    message: 'Check out Music Studio Pro - now on FamilyConnect',
+    message: 'Check out Music Studio Pro - now on Family Book',
     targetType: 'All Users',
     sentAt: 'Jun 14, 2024 2:15 PM',
   },

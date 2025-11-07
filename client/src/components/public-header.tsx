@@ -13,7 +13,7 @@ export function PublicHeader() {
         <div className="flex items-center justify-between h-16">
           <Link href="/">
             <a className="text-xl font-bold text-foreground hover-elevate px-2 py-1 rounded-md" data-testid="link-logo">
-              FamilyConnect
+              Family Book
             </a>
           </Link>
           
