@@ -234,7 +234,8 @@
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border-gray-200;   /* or border-gray-300 / border-slate-300 */
+
   }
 
   body {
