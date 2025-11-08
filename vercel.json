@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd client && npm install && npx vite build --outDir build",
+  "outputDirectory": "client/build",
+  "framework": "vite"
+}
