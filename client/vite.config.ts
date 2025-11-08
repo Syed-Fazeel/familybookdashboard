@@ -6,9 +6,10 @@ export default defineConfig({
   plugins: [react()],
   root: ".", // keep it simple since Vercel runs inside /client
   build: {
-    outDir: "dist", // IMPORTANT — Vercel looks for this folder
-    emptyOutDir: true,
-  },
+  outDir: "dist",
+  emptyOutDir: true,
+},
+
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
